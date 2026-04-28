@@ -440,7 +440,6 @@ licai.jd.com
 licai.taobao.com
 licai.pinduoduo.com
 vod-hw.alipayobjects.com
-vod*.alipayobjects.com
 vod.alipayobjects
 gw.alipayobjects.com/v/open_content/afts/video
 jiebei.alipay.com
@@ -470,7 +469,7 @@ mssdk.volces.com
 apmplus.volces.com
 apm.volccdn.com
 log-report.rtc.volcvideo.com
-p*.adkwai.com
+adkwai.com
 reward-api.csjplatform.com
 csj-sp.csjdeveloper.com
 csjdeveloper.com
@@ -943,7 +942,7 @@ tradplusad.com
 ad.top.snssdk.com
 video-ads-tt.byteimg.com
 adn-plus.com.cn
-*.igexin.com
+igexin.com
 trackmaster.com
 bigbigads.io
 appgrowing.cn
@@ -1569,7 +1568,7 @@ tradplusad.com
 ad.top.snssdk.com
 video-ads-tt.byteimg.com
 adn-plus.com.cn
-*.igexin.com
+igexin.com
 trackmaster.com
 bigbigads.io
 appgrowing.cn
